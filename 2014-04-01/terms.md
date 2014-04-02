@@ -34,7 +34,7 @@ You may choose to include information about special offers, incentives, or prici
 
 5.2.1. Notification must be submitted to the following Designated Agent for this Service:
 
-424 Treat Ave, San Francisco CA 94110<br />
+424 Treat Ave Unit B, San Francisco CA 94110<br />
 Phone: 310-853-8659<br />
 Email: support@lynr.co<br />
 
